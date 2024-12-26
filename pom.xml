@@ -118,7 +118,7 @@
          -->
         <bouncycastle.bcprov>bcprov-jdk15on</bouncycastle.bcprov>
         <bouncycastle.bcpkix>bcpkix-jdk15on</bouncycastle.bcpkix>
-        <bouncycastle.version>1.67</bouncycastle.version>
+        <bouncycastle.version>1.70</bouncycastle.version>
         <datanucleus-core.version>6.0.6</datanucleus-core.version>
         <datanucleus.plugin.version>6.0.0-release</datanucleus.plugin.version>
         <asm.version>9.5</asm.version>
