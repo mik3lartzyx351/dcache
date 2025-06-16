@@ -89,7 +89,7 @@
 
         <version.spring-integration-kafka>5.5.11</version.spring-integration-kafka>
         <version.spring_kafka>2.9.11</version.spring_kafka>
-        <version.kafka>3.1.0</version.kafka>
+        <version.kafka>3.9.1</version.kafka>
 
         <!-- BouncyCastle seems to change the naming convention of
              their ArtifactId fairly often.  Here is a summary of
